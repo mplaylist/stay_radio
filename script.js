@@ -74,7 +74,18 @@ const music_list = [
         name : 'Weekend Blinding Lights',
         artist : 'The Weekend',
         music : 'music/The Weekend Blinding Lights.mp3'
-    }
+    },
+    {
+
+        img : 'images/favicon.ico',
+
+        name : 'The Beach',
+
+        artist : 'The Neighborhood',
+
+         music : 'music/The Beach.mp3'
+
+    },
     
 ];
 
