@@ -55,7 +55,7 @@ const music_list = [
         img : 'images/favicon.ico',
         name : 'Trampoline',
         artist : 'shaed',
-        music : 'music/trampoline.mp3'
+        music : 'music/Trampoline.mp3'
     },
     {
         img : 'images/favicon.ico',
